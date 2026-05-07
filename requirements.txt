@@ -1,0 +1,16 @@
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+scipy>=1.10.0
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.22.0
+
+# Optional : pour brancher un vrai export GA4
+# google-analytics-data>=0.18.0
+# google-cloud-bigquery>=3.10.0
+
+# Optional : pour forecasting
+# prophet>=1.1.0
