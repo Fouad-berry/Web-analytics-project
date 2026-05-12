@@ -295,6 +295,8 @@ MIT — voir [`LICENSE`](LICENSE).
 ## 👤 Auteur
 
 **[Fouad MOUTAIROU]**
+- [LinkedIn](https://www.linkedin.com/in/fouad-moutairou-044460273/)
+- [Portfolio](https://portfolio-fouad.netlify.app/)
 
 ---
 
